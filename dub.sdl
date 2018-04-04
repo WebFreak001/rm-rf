@@ -1,0 +1,4 @@
+name "rm-rf"
+description "Delete folders recursively on windows with read-only content such as a .git folder"
+license "public domain"
+targetType "sourceLibrary"
